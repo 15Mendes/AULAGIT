@@ -6,3 +6,10 @@
 -git config --global user.mail "(email q ta no github)"
 -git init
 -git remote add origin (link do reposiitorio remoto(pasta))
+## Fazer Projeto
+-faz algumas coisas e pa 
+##Stage (colocar pra salvar, mas n salva ainda (prepara pra salvar))
+-git add . ou *
+-git commit -m "(mensagem de commit)"
+##Push
+-git push origin master/main
